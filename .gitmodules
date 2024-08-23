@@ -1,3 +1,6 @@
 [submodule "dhack-mtp-backend"]
 	path = dhack-mtp-backend
 	url = https://github.com/Skifry/dhack-mtp-backend.git
+[submodule "drivehack3"]
+	path = drivehack3
+	url = https://github.com/otomir23/drivehack3.git
