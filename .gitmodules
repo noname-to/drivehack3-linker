@@ -1,0 +1,3 @@
+[submodule "dhack-mtp-backend"]
+	path = dhack-mtp-backend
+	url = https://github.com/Skifry/dhack-mtp-backend.git
